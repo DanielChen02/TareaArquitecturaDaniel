@@ -1,0 +1,12 @@
+.imagenInicio {
+    width: 290px;
+    margin-inline: -30px ;
+    position: absolute ;
+    height: fit-content;
+  }
+  
+  
+  body{
+    background-color: #282c34;
+  }
+  

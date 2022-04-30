@@ -1,0 +1,68 @@
+#cardcss{
+    height: auto;
+    width: 200px;
+    margin-top: -640px;
+    margin-left: 320px;
+}
+
+.imagenInicio {
+    width: 290px;
+    position: absolute ;
+    height: fit-content;
+    margin-inline: -30px;
+  }
+  
+  #regresar{
+    margin-left: -310px;
+}
+  
+li {
+    color:  rgb(0, 0, 0);
+  }
+
+  /* unvisited link */
+a:link {
+    color: rgb(0, 0, 0);
+  }
+  
+/* visited link */
+a:visited {
+    color: rgb(0, 0, 0);
+  }
+
+
+.linksMenu{
+  background-color: #4BAA01;
+  width: 214px;
+  height: 100vh;
+  
+}
+
+.barraArribaColor{
+  background-color: #4BAA01;
+  width: 215.3vh;
+  height: 50px
+}
+
+.titulo{
+  margin: " 0 auto";
+}
+
+.botonSalir{
+  width: 90px;
+  height: 30px;
+  margin-top: 10px;
+  margin-left: 1430px;
+}
+
+#comprar{
+  height: 25px;
+  width: 100px;
+}
+
+.bordeVerdeArriba{
+    background-color: #4BAA01;
+    width: "100%";
+    height: auto;
+}
+

@@ -1,0 +1,12 @@
+.imagenInicio {
+    width: 290px;
+    position: absolute ;
+    height: fit-content;
+    margin-inline: -30px;
+  }
+  
+  #regresar{
+    margin-left: -310px;
+}
+  
+  
